@@ -1,0 +1,16 @@
+{
+    "name": "HierarchyExtensionTool.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:b1bb941a7dd4c0b1d8c35df19e54bc1d"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
