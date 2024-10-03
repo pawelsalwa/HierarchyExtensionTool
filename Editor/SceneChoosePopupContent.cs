@@ -7,7 +7,7 @@ using UnityEngine.SceneManagement;
 
 namespace HierarchyExtensionTool
 {
-	public class SceneChoosePopupContent : PopupWindowContent
+	internal class SceneChoosePopupContent : PopupWindowContent
 	{
 		private const string loadAsSinglePropertyName = "HierarchyExtensionTool.LoadAsSingle";
 		
