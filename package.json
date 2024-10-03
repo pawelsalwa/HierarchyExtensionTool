@@ -1,0 +1,12 @@
+{
+  "name": "com.pawelsalwa.hierarchyextensiontool",
+  "displayName": "HierarchyExtensionTool",
+  "description": "Simple suite of visual tools for Unity Hierarchy Window.",
+  "version": "0.0.1",
+  "unity": "2019.2",
+  "documentationUrl": "https://github.com/pawelsalwa/HierarchyExtensionTool",
+  "repository": {
+    "url": "https://github.com/pawelsalwa/HierarchyExtensionTool.git",
+    "type": "git"
+  }
+}
