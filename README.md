@@ -3,7 +3,7 @@ Simple suite of visual tools for Unity Hierarchy Window.
 
 Features:
 - adds button for quick loading of scenes
-- adds toggles to each GameObject in hierarchy for easier toggling of activation
+- adds toggle to each GameObject in Hierarchy Window for easier toggling of activation
 - HierarchyButtonAttribute - allows to call MonoBehaviour methods from button drawn in Hierarchy Window. 
 
 ## Installation
@@ -18,6 +18,7 @@ using UnityEngine;
 
 public class SomeBehaviour : MonoBehaviour
 {
+    [HierarchyButton]
     private void SomeMethodAbleToBeCalledFromHierarchyButton()
     {
         Debug.Log("hello");        
