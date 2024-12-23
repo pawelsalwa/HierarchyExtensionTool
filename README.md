@@ -9,7 +9,7 @@ Features:
 ## Installation
 Add this line to your **Packages/manifest.json** file in your Unity project:
 ```
-"com.pawelsalwa.hierarchyextensiontool": "https://github.com/pawelsalwa/HierarchyExtensionTool"
+"com.pawelsalwa.hierarchyextensiontool": "https://github.com/pawelsalwa/HierarchyExtensionTool.git"
 ```
 ## Example
 Example usage:
